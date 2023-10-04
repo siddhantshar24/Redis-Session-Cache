@@ -1,4 +1,4 @@
-# RedisSessionCache
+# Redis-Session-Cache
 A Redis based session cache to maintain user records in server during logins.
 
 Technologies used: Java, SpringBoot, Redis.
