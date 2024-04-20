@@ -15,5 +15,5 @@ To start the project in your local:
 
 -Next time when you try to access the localhost it will not ask for login credentials despite restarting the application.
 
-Thanks.
+Thank you so much.
 
